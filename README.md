@@ -91,7 +91,7 @@ localhost:8080/h2-console/
 
 **Notes:**
 - The service is exposed on `http://localhost:8080` by default.
-- Spring Boot uses the `application-*.application` file(s).
+- Spring Boot uses the `application-*.properties` file(s).
 - Improvements would be to deploy the jar in docker file 
 - 
 
